@@ -4,7 +4,7 @@
 
 In this project I created a work-day calendar for users to log in their tasks for the day in each time block. The user will be able to save the task into local storage.
 
-[Link to deployed application]()
+[Link to deployed application](https://saraschroeder.github.io/Third-Party-APIS-Workday-Scheduler/)
 
 ## Installation
 
