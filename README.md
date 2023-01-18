@@ -14,10 +14,6 @@ N/A
 
 ![alt text](./assets/images/Screenshot1.png)
 ![alt text](./assets/images/Screenshot2.png)
-![alt text](./assets/images/Screenshot3.png)
-![alt text](./assets/images/Screenshot4.png)
-![alt text](./assets/images/Screenshot5.png)
-
 
 ## Credits
 
